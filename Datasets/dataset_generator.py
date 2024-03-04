@@ -13,7 +13,7 @@ client = OpenAI()
 
 # Upload a file to use for the assistant
 file = client.files.create(
-  file=open("data.txt", "rb"),
+  file=open("data.txt", "rb"), # Change the file name (data.txt) as needed
   purpose='assistants'
 )
 
