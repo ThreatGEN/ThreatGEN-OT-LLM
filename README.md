@@ -1,6 +1,6 @@
 # ThreatGEN OT LLM Project
 
-Welcome to the ThreatGEN OT LLM Project. Our goal is to create quality and accurate LLMs that are specifically trained for OT cybersedurity use cases, open-source and free to use. 
+Welcome to the ThreatGEN OT LLM Project. Our goal is to create quality and accurate LLMs that are specifically trained for OT cybersecurity use cases, open-source and free to use. 
 
 ## What is the ThreatGEN OT LLM Project?
 
