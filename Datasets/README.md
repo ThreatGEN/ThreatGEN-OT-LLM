@@ -24,7 +24,7 @@ file = client.files.create(
 python dataset_generatory.py
 ```
 
-# How to Fine-tuning LLMs for cybersecurity with Hugging Face’s AutoTrain
+# How to fine tune LLMs for cybersecurity with Hugging Face’s AutoTrain
 
 Hugging Face's AutoTrain represents a leap forward in the democratization of AI, enabling users from various backgrounds to train state-of-the-art models for diverse tasks, including Natural Language Processing (NLP) and Computer Vision (CV). This tool is particularly beneficial for cybersecurity professionals who wish to fine-tune LLMs for specific cybersecurity tasks, such as analyzing threat intelligence or automating incident response, without delving deep into the technical complexities of model training. AutoTrain's user-friendly interface and no-code approach make it accessible not just to data scientists and ML engineers but also to non-technical users. By utilizing AutoTrain Advanced, users can leverage their own hardware for faster data processing, control hyperparameters for customized model training, and process data either in a Hugging Face Space or locally for enhanced privacy and efficiency.
 
